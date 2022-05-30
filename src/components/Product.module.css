@@ -1,0 +1,17 @@
+.Item{
+    padding:20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.Item>img{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 20px;
+}
+.title{
+    color:#4fd1c5;
+    text-align: center;
+    font-size: 25px;
+}
+.price{
+    text-align: center;
+}
